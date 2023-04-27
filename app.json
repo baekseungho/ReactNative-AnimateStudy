@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2d7576cf-bb39-4269-8b47-af62834540ef"
+      }
+    },
+    "owner": "baekseungho"
   }
 }
